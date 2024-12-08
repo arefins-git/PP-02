@@ -1,0 +1,142 @@
+{
+  "Product Information": {
+    "Queries": [
+      "What are the features of the product?",
+      "Can you tell me the price?",
+      "What is the model number?",
+      "What products do you offer?"
+    ],
+    "Responses": {
+      "en": [
+        "Our product features include the latest technology, durable materials, and user-friendly design.",
+        "The price of the product is $299.99.",
+        "The model number is XYZ123.",
+        "We offer a range of electronics, including smartphones, laptops, and accessories."
+      ],
+      "es": [
+        "Las características de nuestro producto incluyen la última tecnología, materiales duraderos y un diseño fácil de usar.",
+        "El precio del producto es de $299.99.",
+        "El número de modelo es XYZ123.",
+        "Ofrecemos una variedad de productos electrónicos, como teléfonos inteligentes, computadoras portátiles y accesorios."
+      ],
+      "bn": [
+        "আমাদের পণ্যের বৈশিষ্ট্যগুলির মধ্যে রয়েছে সর্বশেষ প্রযুক্তি, টেকসই উপকরণ এবং ব্যবহারকারী-বান্ধব ডিজাইন।",
+        "পণ্যের মূল্য $299.99।",
+        "মডেল নম্বর হল XYZ123।",
+        "আমরা ইলেকট্রনিক্সের একটি পরিসীমা অফার করি, যার মধ্যে স্মার্টফোন, ল্যাপটপ এবং আনুষাঙ্গিক রয়েছে।"
+      ]
+    }
+  },
+  "Order Status": {
+    "Queries": [
+      "Where is my order?",
+      "What is the status of my shipment?",
+      "Has my order been shipped?",
+      "Can I track my order?"
+    ],
+    "Responses": {
+      "en": [
+        "Your order is currently being processed and will be shipped soon.",
+        "Your shipment is on its way and should arrive within 3-5 business days.",
+        "Yes, your order has been shipped. You should receive an email with tracking details.",
+        "You can track your order using the tracking number provided in the confirmation email."
+      ],
+      "es": [
+        "Su pedido está siendo procesado y se enviará pronto.",
+        "Su envío está en camino y debería llegar dentro de 3-5 días hábiles.",
+        "Sí, su pedido ha sido enviado. Debería recibir un correo electrónico con los detalles de seguimiento.",
+        "Puede rastrear su pedido utilizando el número de seguimiento proporcionado en el correo electrónico de confirmación."
+      ],
+      "bn": [
+        "আপনার অর্ডার বর্তমানে প্রক্রিয়া চলছে এবং শীঘ্রই প্রেরিত হবে।",
+        "আপনার চালান পথে রয়েছে এবং ৩-৫ কর্মদিবসের মধ্যে পৌঁছাবে।",
+        "হ্যাঁ, আপনার অর্ডার প্রেরিত হয়েছে। আপনি ট্র্যাকিং বিবরণ সহ একটি ইমেল পাবেন।",
+        "আপনি নিশ্চিতকরণ ইমেলে দেওয়া ট্র্যাকিং নম্বর ব্যবহার করে আপনার অর্ডার ট্র্যাক করতে পারবেন।"
+      ]
+    }
+  },
+  "Returns and Refunds": {
+    "Queries": [
+      "How do I return an item?",
+      "What is your return policy?",
+      "Can I get a refund?",
+      "How long does the return process take?"
+    ],
+    "Responses": {
+      "en": [
+        "You can return an item within 30 days of purchase. Please contact customer support for assistance.",
+        "Our return policy allows returns within 30 days of purchase. The product must be in its original condition.",
+        "Yes, you can get a refund within 30 days. Please follow the return procedure outlined on our website.",
+        "The return process typically takes 5-7 business days from the date we receive the item."
+      ],
+      "es": [
+        "Puede devolver un artículo dentro de los 30 días posteriores a la compra. Por favor, contacte con el soporte al cliente para asistencia.",
+        "Nuestra política de devoluciones permite devoluciones dentro de los 30 días posteriores a la compra. El producto debe estar en su estado original.",
+        "Sí, puede obtener un reembolso dentro de los 30 días. Por favor, siga el procedimiento de devolución descrito en nuestro sitio web.",
+        "El proceso de devolución suele tardar de 5 a 7 días hábiles desde la fecha en que recibimos el artículo."
+      ],
+      "bn": [
+        "আপনি ক্রয়ের ৩০ দিনের মধ্যে একটি আইটেম ফেরত দিতে পারবেন। সাহায্যের জন্য দয়া করে গ্রাহক সহায়তায় যোগাযোগ করুন।",
+        "আমাদের রিটার্ন নীতি ক্রয়ের ৩০ দিনের মধ্যে রিটার্নের অনুমতি দেয়। পণ্যটি তার আসল অবস্থায় থাকতে হবে।",
+        "হ্যাঁ, আপনি ৩০ দিনের মধ্যে রিফান্ড পেতে পারেন। আমাদের ওয়েবসাইটে বর্ণিত রিটার্ন পদ্ধতি অনুসরণ করুন।",
+        "রিটার্ন প্রক্রিয়াটি সাধারণত ৫-৭ কর্মদিবস সময় নেয় যখন আমরা আইটেমটি পেয়ে থাকি।"
+      ]
+    }
+  },
+  "Technical Support": {
+    "Queries": [
+      "I'm having issues with the product.",
+      "Can you help me fix this error?",
+      "My product is malfunctioning.",
+      "What should I do if I face a technical issue?"
+    ],
+    "Responses": {
+      "en": [
+        "Please describe the issue in more detail so we can assist you.",
+        "We are here to help. Please provide more details about the error you're encountering.",
+        "We're sorry to hear that your product is malfunctioning. Please contact technical support for further assistance.",
+        "For technical issues, we recommend following the troubleshooting steps in the manual or contacting support."
+      ],
+      "es": [
+        "Por favor, describa el problema con más detalle para que podamos ayudarle.",
+        "Estamos aquí para ayudar. Por favor, proporcione más detalles sobre el error que está encontrando.",
+        "Lamentamos escuchar que su producto está fallando. Por favor, póngase en contacto con soporte técnico para obtener más ayuda.",
+        "Para problemas técnicos, recomendamos seguir los pasos de solución de problemas en el manual o ponerse en contacto con soporte."
+      ],
+      "bn": [
+        "আপনার সমস্যা আরও বিস্তারিতভাবে বর্ণনা করুন যাতে আমরা আপনাকে সাহায্য করতে পারি।",
+        "আমরা সাহায্য করতে এখানে আছি। আপনি যে ত্রুটিটি পাচ্ছেন সে সম্পর্কে আরও বিস্তারিত তথ্য দিন।",
+        "আমরা দুঃখিত যে আপনার পণ্যটি অকেজো হচ্ছে। আরও সাহায্যের জন্য দয়া করে প্রযুক্তিগত সহায়তায় যোগাযোগ করুন।",
+        "প্রযুক্তিগত সমস্যাগুলির জন্য, আমরা ম্যানুয়ালে দেওয়া সমস্যার সমাধান পদ্ধতি অনুসরণ করার অথবা সহায়তার জন্য যোগাযোগ করার পরামর্শ দিচ্ছি।"
+      ]
+    }
+  },
+  "General FAQs": {
+    "Queries": [
+      "How can I contact customer service?",
+      "What is your business hours?",
+      "Where is your company located?",
+      "Do you offer discounts?"
+    ],
+    "Responses": {
+      "en": [
+        "You can contact our customer service via phone, email, or live chat on our website.",
+        "Our business hours are Monday to Friday, from 9 AM to 6 PM.",
+        "Our headquarters are located at 123 Business Road, City, Country.",
+        "Yes, we offer discounts during special promotions. Please check our website for current offers."
+      ],
+      "es": [
+        "Puede contactar con nuestro servicio de atención al cliente por teléfono, correo electrónico o chat en vivo en nuestro sitio web.",
+        "Nuestro horario de atención es de lunes a viernes, de 9 a.m. a 6 p.m.",
+        "Nuestra sede se encuentra en la Calle 123, Ciudad, País.",
+        "Sí, ofrecemos descuentos durante promociones especiales. Consulte nuestro sitio web para conocer las ofertas actuales."
+      ],
+      "bn": [
+        "আপনি আমাদের গ্রাহক সেবা ফোন, ইমেল বা আমাদের ওয়েবসাইটে লাইভ চ্যাটের মাধ্যমে যোগাযোগ করতে পারেন।",
+        "আমাদের ব্যবসার সময় সোমবার থেকে শুক্রবার, সকাল ৯টা থেকে সন্ধ্যা ৬টা পর্যন্ত।",
+        "আমাদের প্রধান কার্যালয় ১২৩ বিজনেস রোড, শহর, দেশ এ অবস্থিত।",
+        "হ্যাঁ, আমরা বিশেষ প্রচারের সময় ডিসকাউন্ট অফার করি। দয়া করে আমাদের ওয়েবসাইটে বর্তমান অফারগুলির জন্য চেক করুন।"
+      ]
+    }
+  }
+}
