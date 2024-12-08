@@ -2,7 +2,7 @@ import json
 import datetime
 
 # Load the JSON file for chatbot categories
-with open('customer_support_chatbot_restructured.json', 'r') as f:
+with open('customer_support_chatbot.json', 'r') as f:
     categories = json.load(f)
 
 # Define keywords for each category
